@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "parse_tree.h": "c",
+        "stdio.h": "c"
+    }
+}
