@@ -1,1 +1,3 @@
-An interpreter for the programming language [Brainf***](https://en.wikipedia.org/wiki/Brainfuck) written in C
+An interpreter for the programming language [Brainf***](https://en.wikipedia.org/wiki/Brainfuck) written in C.
+
+My solution is neither time nor space-optimal - I did not prioritise efficiency as I wanted to use this exercise as a chance to learn more about interpreters and compilers. Therefore, my solution involves constructing a kind of Abstract Syntax Tree from the input program. I hope to use this method to come up with a more sophisticated interpreter for a more complex language.
