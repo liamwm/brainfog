@@ -1,4 +1,4 @@
-#include "brainfck.h"
+#include "brainfog.h"
 
 
 int main(int argc, char* argv[]) {
